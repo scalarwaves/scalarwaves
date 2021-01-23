@@ -1,5 +1,7 @@
 ### My Dossier
 
+[![Logo](https://github.com/scalarwaves/scalarwaves/raw/main/scalarwaves.png)]
+
 - 🔭 I’m currently working on music and audio software with a focus on tracker-style composition and creative coding
 - 🌱 I’m currently learning systems programming, especially with Rust, and how to play electric guitar
 - 👯 I’m looking to collaborate on multimedia projects
