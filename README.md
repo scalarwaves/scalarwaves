@@ -11,3 +11,6 @@
 - ⚡ Fun fact: I like all kinds of music but especially Rock and Electronic
 
 [![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=scalarwaves&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+To donate to my software development, here is my Bitcoin address:
+zpub6nT47CnkLJWRJ76bPJHTVJzSMgKdf234d5t1ujxDBUxigVsBcLUzQ8i9P7Ehy8T5rNBk8Rn8UxkooM3HqNfkgrv3CKR9XmUWyepdMFnW4qr
